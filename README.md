@@ -1,4 +1,4 @@
-- nice to meet you, I’m @LowaseMakuteb
+- nice to meet you, I’m @LowaseMakuteba
 - I’m a japanese
 - I want to meke a Friday Night Funkin' MOD
 - I’m currently learning English and Programming language Go
